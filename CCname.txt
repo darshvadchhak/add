@@ -1,0 +1,3 @@
+this is file of CCname file which is in CC branch
+which has two file 1 is CCname (which is new) and
+2 is ABCDmain (which is copied with branch generated)
