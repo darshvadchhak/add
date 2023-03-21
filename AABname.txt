@@ -1,0 +1,5 @@
+this is file of AABname file which is in AAb branch which is of AA branch
+which has three file 
+1 is AABname (which is new) and
+2 is AAname (which is copied with this branch geneated)
+2 is ABCDmain (which is copied with when AA branch generated)
