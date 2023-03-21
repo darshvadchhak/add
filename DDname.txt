@@ -1,0 +1,3 @@
+this is file of DDname file which is in DD branch
+which has two file 1 is DDname (which is new) and
+2 is ABCDmain (which is copied with branch generated)
