@@ -1,0 +1,5 @@
+this is file of EEAname file which is in EEA branch which is of EE branch
+which has three file 
+1 is EEAname (which is new) and
+2 is EEname (which is copied with this branch geneated)
+2 is ABCDmain (which is copied with when EE branch generated)
