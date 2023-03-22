@@ -1,3 +1,7 @@
 this is file of CCname file which is in CC branch
 which has two file 1 is CCname (which is new) and
-2 is ABCDmain (which is copied with branch generated)
+2 is ABCDmain
+
+note in this some changes are made as below 
+1 one line is deleted from 2 it was description of abcdmain file
+and this note description is added.
