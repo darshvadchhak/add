@@ -1,4 +1,0 @@
-this is a file name FFname which is new for this branch.
-this folder has 2 folder 
-1 is abcd main which is copied from main
-2 is created new file
