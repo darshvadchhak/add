@@ -1,0 +1,5 @@
+this is ccb file in ccb branch 
+
+there already 2 file exists
+1 is abcdmain which is copied when cc branch was being made
+2 is ccname is made when cc branch is created
